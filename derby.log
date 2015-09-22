@@ -1,0 +1,14 @@
+Tue Sep 22 16:29:59 CST 2015 : Apache Derby 网络服务器 - 10.11.1.1 - (1616546) 已启动并准备接受端口 1527 上的连接
+----------------------------------------------------------------
+Tue Sep 22 16:30:15 CST 2015:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@62f72617 引导数据库
+目录 /Users/dj0708/Desktop/demo/201509221051/sun-appserv-samples 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546) 实例 a816c00e-014f-f42c-782a-00006c5c513b
+已从 file:/Library/Derby/lib/derby.jar 加载
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-466.1-11M4716
+user.dir=/Users/dj0708/Desktop/demo/201509221051
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.5
+derby.system.home=/Users/dj0708/Desktop/demo/201509221051
+数据库类加载程序已启动 - derby.database.classpath=''
