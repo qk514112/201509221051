@@ -8,7 +8,7 @@
     <schema name="APP" catalog=""/>
     <table name="USERS" schema="APP" catalog="" type="TABLE">
       <column name="EMAIL" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
-      <primary-key name="SQL150922173110620" columns="EMAIL"/>
+      <primary-key name="SQL150923095712860" columns="EMAIL"/>
     </table>
   </data-source>
 </component>

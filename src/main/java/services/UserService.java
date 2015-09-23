@@ -18,8 +18,8 @@ public class UserService {
     private EntityManager em;
 
     public List<User> getAll() {
-//        TypedQuery<User> query = em.createQuery("select u from User u", User.class);
-        Query query = em.createQuery("SELECT u FROM User u");
+        TypedQuery<User> query = em.createQuery("select u from User u", User.class);
+//        Query query = em.createQuery("SELECT u FROM User u");
         return query.getResultList();
     }
 }
